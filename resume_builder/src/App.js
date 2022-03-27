@@ -15,7 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Resume builder
+
+          This is a resume builder project
+
         </a>
       </header>
     </div>
